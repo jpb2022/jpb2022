@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitendra Gupta</h1>
-<h3 align="center">A passionate Data Scientist |ML Engineer |AI Researcher| Operation Research | supply Chain Analytics| Frontend Developer from India</h3>
+<h3 align="center">A passionate Data Scientist |ML Engineer |AI Researcher| Operation Research | Supply Chain Analytics| Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpb2022&label=Profile%20views&color=0e75b6&style=flat" alt="jpb2022" /> </p>
 
