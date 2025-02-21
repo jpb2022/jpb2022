@@ -24,7 +24,6 @@
 
 ![ai_trends_dribbble_shot](https://github.com/user-attachments/assets/2c062c07-eea9-4e36-9a3d-1ff9fed31745)
 
-![DATA SCIENCE](https://github.com/user-attachments/assets/9b397253-3a7d-4c5c-9783-f2c137dd88a1)
 
 ![SUPPLY CHAIN ANALYTICS](https://github.com/user-attachments/assets/b1785f89-5270-41d6-9cdf-ad6815327ad6)
 
