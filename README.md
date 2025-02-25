@@ -3,7 +3,8 @@
 # 💫 About Me
 
 Hello! I am a Data Scientist, Machine Learning Engineer, and Business Analyst with expertise in full-stack development, statistical analysis, and AI-driven solutions. With an M.Tech in Industrial and Management Engineering from IIT Kanpur and a B.Tech in Mechanical Engineering from NIT Surat, I bring a strong analytical and problem-solving approach to real-world data challenges.
-🔹 Professional Experience
+
+ 🔹 Professional Experience
 
     Software Developer & Professor at Geeks of Gurukul
         Develop full-stack applications using React, Node.js, Express.js, and SQL
