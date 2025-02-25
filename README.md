@@ -1,4 +1,56 @@
 <h1 align="center">Hi 👋, I'm Jitendra Gupta</h1>
+
+# 💫 About Me
+
+Hello! I am a Data Scientist, Machine Learning Engineer, and Business Analyst with expertise in full-stack development, statistical analysis, and AI-driven solutions. With an M.Tech in Industrial and Management Engineering from IIT Kanpur and a B.Tech in Mechanical Engineering from NIT Surat, I bring a strong analytical and problem-solving approach to real-world data challenges.
+🔹 Professional Experience
+
+    Software Developer & Professor at Geeks of Gurukul
+        Develop full-stack applications using React, Node.js, Express.js, and SQL
+        Teach Machine Learning, Statistics, Python, Data Analytics, Cloud Computing, and Engineering Mathematics
+        Guide students in AI/ML, Computer Science, and Software Development
+
+🔹 Technical Expertise
+
+    Programming Languages: Python (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, NLTK), SQL, Java, C++, R
+    Machine Learning & AI: ML/DL models, NLP, Generative AI, Large Language Models (LLMs)
+    Data Analysis & Visualization: Power BI, Tableau, Matplotlib, Seaborn, Excel
+    Full-Stack Development: HTML, JavaScript, React, Node.js, Express.js
+    Optimization & Forecasting: Time Series Analysis, Operations Research, Supply Chain Management
+
+🔹 Projects & Research
+
+🚀 Machine Learning for Supply Chain Optimization (Thesis)
+
+    Late Delivery Prediction, Demand Forecasting, Inventory Management using ML algorithms (Random Forest, XGBoost, ARIMA, SARIMA, LSTM)
+    Implemented models for e-commerce (electronics, clothing, sports) and health commodity supply chains (HIV/AIDS medicine logistics)
+
+📊 Data Science & Business Analytics
+
+    Geospatial-Temporal Visualization of Groundwater Data: GIS mapping of water quality across India using GeoPandas, Folium, Matplotlib
+    Swiggy Business Analysis (SQL): Optimized SQL queries for restaurant revenue growth, recurring customer analysis
+    Power BI Dashboard for Sales Analysis: Sales insights by product, market, and segment for decision-making
+
+🤖 AI & Deep Learning
+
+    IMDB Sentiment Analysis: Built classification models (Logistic Regression, Naïve Bayes, SVM) with Bag of Words, TF-IDF, and Word2Vec
+    Image Classification using CNN: Improved accuracy from 49% (ANN) to 83% (CNN) on the CIFAR-10 dataset
+
+📉 Time Series & Forecasting
+
+    Air Passenger Prediction: Built AR, MA, ARIMA, SARIMA models for forecasting airline passenger trends
+    Weekly Traveling Salesman Problem: Optimized travel planning using ILP (CPLEX) with custom route visualization
+
+🔹 Certifications & Courses
+
+🎓 Mastering Data Science & AI
+
+    Deep Learning with TensorFlow & PyTorch
+    Advanced Statistical Methods for Business Analytics
+    Generative AI & Large Language Models
+    Power BI & SQL for Business Intelligence
+
+
 <h3 align="center">A passionate Data Scientist |ML Engineer |AI Researcher| Operation Research | Supply Chain Analytics| Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpb2022&label=Profile%20views&color=0e75b6&style=flat" alt="jpb2022" /> </p>
