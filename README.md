@@ -6,10 +6,10 @@ Hi there! I’m a Data Scientist, Machine Learning Engineer, and AI Enthusiast w
 
 I specialize in building data-driven and AI-powered solutions across domains such as machine learning, deep learning, generative AI, and computer vision. My work focuses on transforming raw data into meaningful insights and deploying scalable models that solve real-world business problems.
 
-#### Core Expertise: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Computer Vision (OpenCV)
-#### Tech Stack: Python, SQL, TensorFlow, PyTorch, FastAPI, Streamlit, Docker
-#### Areas of Interest: Predictive Analytics, Time Series Forecasting, AI Automation, End-to-End ML Pipelines
-#### What I Build: Data science projects, ML models, APIs, dashboards, and AI applications
+###### Core Expertise: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Computer Vision (OpenCV)
+###### Tech Stack: Python, SQL, TensorFlow, PyTorch, FastAPI, Streamlit, Docker
+###### Areas of Interest: Predictive Analytics, Time Series Forecasting, AI Automation, End-to-End ML Pipelines
+###### What I Build: Data science projects, ML models, APIs, dashboards, and AI applications
 
 I enjoy experimenting with new technologies, contributing to open-source projects, and creating repositories that help others learn and implement practical AI solutions.
 
