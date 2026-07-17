@@ -2,14 +2,16 @@
 
 # 💫 About Me
 
-Hi there! I’m a Data Scientist, Machine Learning Engineer, and AI Enthusiast with a strong foundation in analytics, software development, and problem-solving. I hold an M.Tech in Industrial and Management Engineering from IIT Kanpur and a B.Tech in Mechanical Engineering from NIT Surat.
+Hi there! I'm a **Lead AI/ML Developer** with **4+ years of overall experience** in Data Science, Machine Learning, and AI Engineering. I began my career as a **Data Scientist** and have since grown into leading AI/ML development, building and deploying end-to-end intelligent systems. I hold an M.Tech in Industrial and Management Engineering from IIT Kanpur and a B.Tech in Mechanical Engineering from NIT Surat.
 
 I specialize in building data-driven and AI-powered solutions across domains such as machine learning, deep learning, generative AI, and computer vision. My work focuses on transforming raw data into meaningful insights and deploying scalable models that solve real-world business problems.
 
-##### Core Expertise: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Computer Vision (OpenCV)
-##### Tech Stack: Python, SQL, TensorFlow, PyTorch, FastAPI, Streamlit, Docker
-##### Areas of Interest: Predictive Analytics, Time Series Forecasting, AI Automation, End-to-End ML Pipelines
-##### What I Build: Data science projects, ML models, APIs, dashboards, and AI applications
+##### Current Role: Lead AI/ML Developer (Previously: Data Scientist) | 4+ Years of Experience
+##### Core Expertise: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Fine-Tuning, Agentic AI, Computer Vision (OpenCV)
+##### Tech Stack: Python, SQL, TensorFlow, PyTorch, FastAPI, Streamlit, Docker, AWS, Cloud, Databases
+##### Areas of Interest: Predictive Analytics, Time Series Forecasting, AI Automation, End-to-End ML Pipelines, Agentic AI Systems
+##### What I Build: Data science projects, ML models, LLM/RAG-based applications, APIs, dashboards, and AI applications
+##### Domains I've Worked In: Healthcare, Supply Chain Analytics, Product-Based, Service-Based, NBFC (BFSI), Stock/Quantitative Analytics
 
 I enjoy experimenting with new technologies, contributing to open-source projects, and creating repositories that help others learn and implement practical AI solutions.
 
@@ -17,13 +19,15 @@ I enjoy experimenting with new technologies, contributing to open-source project
 
  
 
-<h3 align="center">A passionate Data Scientist |ML Engineer |AI Researcher| Operation Research | Supply Chain Analytics| Frontend Developer from India</h3>
+<h3 align="center">A passionate Lead AI/ML Developer | Data Scientist | AI Researcher | Generative AI & LLM Engineer | Operation Research | Supply Chain Analytics | Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpb2022&label=Profile%20views&color=0e75b6&style=flat" alt="jpb2022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpb2022" alt="jpb2022" /></a> </p>
 
-- 🔭 I’m currently working on **SDE and Data Scientist**
+- 🔭 I'm currently working as a **Lead AI/ML Developer**, building Generative AI, LLM/RAG, fine-tuning, and Agentic AI solutions
+
+- 🌱 Previously worked as a **Data Scientist**, delivering ML/analytics solutions across Healthcare, Supply Chain, Product & Service-based companies, NBFC, and Stock/Quantitative domains
 
 - 👨‍💻 All of my projects are available at [https://github.com/jpb2022?tab=repositories](https://github.com/jpb2022?tab=repositories)
 
